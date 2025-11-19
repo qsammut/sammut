@@ -1,0 +1,9 @@
+html, body {
+  background-image: url("pinkStar.jpg");
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 15px, black;
+}
